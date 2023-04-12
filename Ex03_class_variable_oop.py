@@ -9,11 +9,11 @@ class student:
 
 
 s1 = student('bassy', '23', 1069)
-s2 = student('bassy', '19', 1069)
-s3 = student('bassy', '22', 1069)
-s4 = student('bassy', '29', 1069)
-s5 = student('bassy', '23', 1069)
-s6 = student('bassy', '21', 1069)
-s7 = student('bassy', '27', 1069)
+s2 = student('john', '19', 1069)
+s3 = student('mary', '22', 1069)
+s4 = student('sarah', '29', 1069)
+s5 = student('joy', '23', 1069)
+s6 = student('adam', '21', 1069)
+s7 = student('mike', '27', 1069)
 
 print(s1.total_marks)
